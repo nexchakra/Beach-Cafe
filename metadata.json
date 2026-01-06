@@ -1,0 +1,8 @@
+
+{
+  "name": "Wanderplate Dining & Exploration",
+  "description": "A global culinary journey featuring a modern menu, real-time ordering, and table reservations with our integrated travel-inspired AI concierge.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
